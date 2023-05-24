@@ -12,10 +12,8 @@ function App() {
       <div className="App">
         <nav className="navbar navbar-expand-lg navbar-light fixed-top">
           <div className="container">
-            {/* <Link className="navbar-brand" to={'/sign-in'}>
-              positronX
-            </Link> */}
-            <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
+      
+            <div className="collapse navbar-collapse" id="navbar">
               <ul className="navbar-nav ml-auto">
                 
                 <img src={reactLogo} />
